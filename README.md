@@ -1,1 +1,1 @@
-# galera_recover
+针对kolla-ansile部署的galera集群实现自动恢复
